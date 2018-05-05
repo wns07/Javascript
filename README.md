@@ -8,4 +8,7 @@ Boolean() : 매개변수 안에 0, null, ""(빈문자), undefined가 올 때는 
 document.write() : 페이지에 글쓰기\
 prompt("", "") : 질의창\
 comfirm("") : 확인창(결과값 : true/false) \
-location.reload() : 브라우저 새로고침
+location.reload() : 브라우저 새로고침 \
+alert("") : 경고창 \
+location.href = "" : 페이지 이동 \
+

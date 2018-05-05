@@ -7,4 +7,5 @@ Boolean() : 매개변수 안에 0, null, ""(빈문자), undefined가 올 때는 
 2. 메소드 \
 document.write() : 페이지에 글쓰기\
 prompt("", "") : 질의창\
-comfirm("") : 확인창\n
+comfirm("") : 확인창(결과값 : true/false) \
+location.reload() : 브라우저 새로고침

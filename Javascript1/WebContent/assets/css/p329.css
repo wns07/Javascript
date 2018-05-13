@@ -1,0 +1,13 @@
+@CHARSET "EUC-KR";
+
+#line_1 {
+	background-color : yellow;
+}
+
+#line_2 {
+	background-color : orange;
+}
+
+div {
+	background-color : aqua;
+}
